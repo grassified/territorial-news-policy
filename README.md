@@ -96,7 +96,10 @@ To promote constructive improvement over immediate punishment, News Managers ope
 * ⚫ **Severe Offenses** *(e.g., slurs, targeted harassment, malicious leaks, deliberate toxicity)*:
   * **Immediate Action**: 30-day revocation of station privileges and escalation to Admin Assistants (AA) for full server review.
 
-> **Appeals & Transparency**: All actions are documented in private log threads and forwarded to their dedicated public news channels. Stations receiving a strike or removal have **7 days to file an appeal**. Appeals are reviewed by neutral representatives from the **Department of Justice (DoJ)** to ensure News Managers do not judge their own decisions.
+### 🏛️ Appeals & DoJ Tribunal System
+- All enforcement actions are documented in private log threads and forwarded to dedicated public channels. Stations receiving a strike, article removal or suspension have **7 days to file a case in the Department of Justice (DoJ) [Tribunal](https://discord.com/channels/991752805213802516/1546936414678163577)**.
+- **Jurisdiction**: Cases contesting News Manager decisions are presided over independently by a **DoJ Judge**, ensuring News Managers never sit as judges in their own disputes.
+- **Procedures**: Case proceedings follow official DoJ Tribunal Phase Guidelines. Final Judicial Verdicts and signed Phase Agreements are legally binding on both the News Station and News Managers.
 
 ## 📦 X. SLOT LIMITS & INACTIVITY
 1. **15-Channel Cap**: The channel limit of 15 news station slots in [Territorial News](https://discord.com/channels/991752805213802516/1546928898460352573) remains in place to respect Discord channel limits.
