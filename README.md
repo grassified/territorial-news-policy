@@ -75,7 +75,7 @@ An earned recognition status awarded to news stations by News Managers that demo
 ### 3. Priority Queueing
 Verified Stations receive priority placement on the waiting list whenever a station slot opens up.
 
-## 🛃 IX. EARLY WARNINGS, STRIKES & ENFORCEMENT
+## 🛃 IX. EARLY WARNINGS, STRIKES & APPEALS
 To promote constructive improvement over immediate punishment, News Managers operate an **Early Warning "Fix It" Window** before formal strikes are applied.
 ### ⏳ Early Warning Grace Periods
 * 🟠 **Minor Issues**: **8 Hours** to edit and resolve the issue after receiving manager feedback.
