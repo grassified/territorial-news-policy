@@ -38,7 +38,7 @@ News Managers and staff reserve the right to lock, archive or delete discussion 
 - Toxicity escalates beyond constructive debate (violating server moderation rules).
 - Spam or bot activity overpowers genuine reader discussion.
 - The author abandons the thread for 7+ days without addressing key community inquiries.
-> *Note: Repeated thread spam will result in Territorial Journalist privileges being revoked.*
+> *Note: Repeated thread spam will result in role privileges being revoked.*
 
 ## ⭐ IV. CLAN AFFILIATION & TRANSPARENCY
 - **Mandatory Disclosure**: Any news station owned, operated or affiliated with a clan or group **MUST include a disclaimer on every article published**:
