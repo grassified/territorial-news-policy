@@ -9,7 +9,7 @@
 - **Right of Response & Transparency**: When covering controversial community disputes or major clan developments; journalists are not required to seek approval prior to reporting, but are required to reach out to involved parties for comment. If a party declines or fails to comment, the article must explicitly note that no response was provided from that party:
 `Reached out to [Party] for comment; no response was provided prior to publication.`
 - **Journalistic Immunity**: This policy guarantees immunity from arbitrary punishments for simply performing legitimate journalistic duties.
-> *Exception*: Immunity is revoked if an article or station violates [Territorial.io Terms](https://territorial.io/terms), [General Server Rules](https://discord.com/channels/991752805213802516/1547670987913429022) or [News Policy](https://discord.com/channels/991752805213802516/1553096767191519373).
+> *Exception*: Immunity is revoked if an article or station violates [Territorial.io Terms](https://territorial.io/terms), [General Server Rules](https://discord.com/channels/991752805213802516/1547670987913429022) or [News Station Constitution](https://discord.com/channels/991752805213802516/1559235456112140290).
 
 ## ⛔ II. CODE OF CONDUCT & CORE STANDARDS
 ### 1. Defamation & Neutrality
