@@ -29,7 +29,7 @@ For the purposes of this Constitution:
 - **Analysis:** Evidence-based interpretation or explanation that goes beyond a direct factual report.
 - **Editorial:** An article primarily expressing the opinion of an author or station.
 - **Unverified Report:** Reporting based materially on rumors, speculation or allegations that have not been sufficiently verified.
-- **Satire:** Clearly disclosed fictional, parodic or humorous content not presented as factual reporting.
+- **Satire:** Clearly seperated fictional, parodic or humorous content not presented as factual reporting.
 - **Major Factual Claim:** A factual assertion important to the article’s main conclusion, allegations or public impact.
 - **Strike:** A formally logged disciplinary finding under the progressive enforcement system.
 - **Restriction:** A temporary or permanent limitation on publishing privileges.
@@ -285,8 +285,6 @@ News Managers must consider the content, editing quality, verification failures,
 Articles using AI-generated satire text, synthetic media or fake AI screenshots must include:
 
 `🤖 AI-generated content/satire`
-
-This disclosure does not replace the mandatory Satire disclaimer where Section VI applies.
 
 ## 🛡️ VIII. VERIFIED STATION STATUS
 
