@@ -1,6 +1,7 @@
 # TERRITORIAL.IO NEWS STATION CONSTITUTION 📰
 
 > *Open. Transparent. Fair.*
+
 > **A framework built for creators: protecting journalistic freedom, eliminating staff bias and building a transparent news ecosystem.**
 
 ## PRELIMINARY PROVISIONS
