@@ -1,8 +1,6 @@
 # TERRITORIAL.IO NEWS STATION CONSTITUTION 📰
 
->
 > *Open. Transparent. Fair.*
->
 > **A framework built for creators: protecting journalistic freedom, eliminating staff bias and building a transparent news ecosystem.**
 
 ## PRELIMINARY PROVISIONS
@@ -12,32 +10,30 @@
 - This Constitution governs News Stations, Station Owners, Journalists, News Managers and news-related enforcement within the Territorial.io Community Server.
 - Territorial.io Terms and the General Server Rules remain applicable.
 - If the News Styling Guide, abbreviated News Guidelines, a manager instruction or any other secondary news policy conflicts with this Constitution, this Constitution prevails.
-- The version published in the designated Discord policy location is the authoritative version.
+- The version published in the designated Discord policy location is authoritative.
 - Any GitHub repository or other external copy is an unofficial transparency and version-history mirror and does not independently create policy.
 
 ### 2. Definitions
 
 For the purposes of this Constitution:
 
-- **News Station**: An approved publication authorized to publish through the Territorial.io news system.
-- **Journalist**: A person authorized to publish for an approved News Station.
-- **Station Owner**: The person responsible for the operation and conduct of a News Station.
-- **News Manager**: A person appointed through the server’s Admin structure to administer the news system and enforce this Constitution.
-- **Admin Assistant (AA)**: A server official who may substitute for a News Manager when News Managers are unavailable, unable to act or disqualified by a conflict of interest.
-- **Clan-Affiliated Station**: A station owned, operated, controlled, sponsored or materially affiliated with a Territorial.io clan or organized group.
-- **Clan-Focused Article**: An article primarily concerning the station’s affiliated clan, its leadership, internal affairs, achievements, disputes, alliances or interests. Incidental references do not make an article Clan-Focused.
-- **News**: Reporting primarily intended to communicate verified facts.
-- **Analysis**: Evidence-based interpretation or explanation that goes beyond a direct factual report.
-- **Editorial**: An article primarily expressing the opinion of an author or station.
-- **Unverified Report**: Reporting based materially on rumors, speculation or allegations that have not been sufficiently verified.
-- **Satire**: Clearly disclosed fictional, parodic or humorous content not presented as factual reporting.
-- **Major Factual Claim**: A factual assertion important to the article’s main conclusion, allegations or public impact.
-- **Strike**: A formally logged disciplinary finding under the progressive enforcement system.
-- **Restriction**: A temporary or permanent limitation on publishing privileges.
-- **Malicious Leak**: The publication of private personal information, credentials, intimate material or other sensitive information primarily intended or reasonably likely to facilitate harassment, doxxing, unauthorized access or serious personal harm.
-- **Recruitment or Advertising**: Content whose primary purpose is to attract members, participants, customers or traffic to a clan, server, product, giveaway, bot or service.
-
----
+- **News Station:** An approved publication authorized to publish through the Territorial.io news system.
+- **Journalist:** A person authorized to publish for an approved News Station.
+- **Station Owner:** The person responsible for the operation and conduct of a News Station.
+- **News Manager:** A person appointed through the server’s Admin structure to administer the news system and enforce this Constitution.
+- **Admin Assistant (AA):** A server official who may substitute for a News Manager when News Managers are unavailable, unable to act or disqualified by a conflict of interest.
+- **Clan-Affiliated Station:** A station owned, operated, controlled, sponsored or materially affiliated with a Territorial.io clan or organized group.
+- **Clan-Focused Article:** An article primarily concerning the station’s affiliated clan, its leadership, internal affairs, achievements, disputes, alliances or interests. Incidental references do not make an article Clan-Focused.
+- **News:** Reporting primarily intended to communicate verified facts.
+- **Analysis:** Evidence-based interpretation or explanation that goes beyond a direct factual report.
+- **Editorial:** An article primarily expressing the opinion of an author or station.
+- **Unverified Report:** Reporting based materially on rumors, speculation or allegations that have not been sufficiently verified.
+- **Satire:** Clearly disclosed fictional, parodic or humorous content not presented as factual reporting.
+- **Major Factual Claim:** A factual assertion important to the article’s main conclusion, allegations or public impact.
+- **Strike:** A formally logged disciplinary finding under the progressive enforcement system.
+- **Restriction:** A temporary or permanent limitation on publishing privileges.
+- **Malicious Leak:** The publication of private personal information, credentials, intimate material or other sensitive information primarily intended or reasonably likely to facilitate harassment, doxxing, unauthorized access or serious personal harm.
+- **Recruitment or Advertising:** Content whose primary purpose is to attract members, participants, customers or traffic to a clan, server, product, giveaway, bot or service.
 
 ## 💼 I. DUTIES & FREEDOM OF JOURNALISM
 
@@ -53,15 +49,15 @@ Articles must be presented according to their actual nature:
 
 - **News** must be primarily factual.
 - **Analysis** must be grounded in disclosed facts or evidence and clearly presented as analysis.
-- **Editorials** must include:
+- **Editorials** must include the following disclaimer:
 
 `EDITORIAL — This article contains the opinion of its author or news station.`
 
-- **Unverified Reports** must include directly below the title:
+**Unverified Reports** must include the following disclaimer directly below the title:
 
 `⚠️ UNVERIFIED REPORT: This article covers community rumors/speculation. No official evidence has been verified.`
 
-- **Satire** must comply with Section VI and include its required disclaimer.
+**Satire** must comply with Section VI and include its required disclaimer.
 
 A label does not excuse fabrication, harassment or reckless disregard for accuracy.
 
@@ -79,7 +75,7 @@ Malicious Leaks are prohibited. Public-interest value does not justify publishin
 
 When covering controversial community disputes, serious allegations or major clan developments, journalists are not required to obtain approval before reporting. However, where circumstances reasonably permit, they must offer materially affected parties a reasonable opportunity to comment.
 
-If a party declines or does not respond before publication, the article must state:
+If a contacted party declines or does not respond before publication, the article must state:
 
 `Reached out to [Party] for comment; no response was provided prior to publication.`
 
@@ -104,8 +100,6 @@ Lawful criticism, embarrassment, disagreement, negative coverage or publication 
 No journalist or station may be selectively punished, deprioritized, denied Verified status or otherwise retaliated against solely for lawful criticism of staff, News Managers, Admins, Admin Assistants, clans or community leadership.
 
 Journalistic Immunity does not protect conduct that violates Territorial.io Terms, the General Server Rules or this Constitution.
-
----
 
 ## ⛔ II. CODE OF CONDUCT & CORE STANDARDS
 
@@ -152,8 +146,6 @@ All articles published in Territorial News must be directly relevant to Territor
 
 Small references or comparisons to other games are permitted when the main subject remains relevant to Territorial.io.
 
----
-
 ## 💬 III. THREAD & READER ENGAGEMENT RULES
 
 ### 1. Strict One-Thread Limit
@@ -182,8 +174,6 @@ Journalists are not required to answer every reader inquiry. An author’s failu
 
 Repeated thread spam may result in thread privileges being revoked.
 
----
-
 ## ⭐ IV. CLAN AFFILIATION & TRANSPARENCY
 
 ### 1. Mandatory Disclosure
@@ -197,19 +187,19 @@ Every Clan-Affiliated Station must include the following disclaimer on every pub
 A Clan-Affiliated Station must not allow coverage of its affiliated clan to dominate its publication output.
 
 - Once a station has published at least ten articles, no more than **four of its ten most recently published articles** may be Clan-Focused Articles.
-- Before a station reaches ten articles, no more than half of its published articles, rounded up, may be Clan-Focused.
+- Before a station reaches ten articles, no more than half of its published articles, rounded up and subject to a maximum of four, may be Clan-Focused.
 - Managers shall evaluate the substance of an article rather than its title or selected category.
 - Artificially divided articles, token filler articles or substantially duplicate reports published to manipulate the rolling window may be disregarded or counted together.
 
-This rule does not require a station to publish filler content. It establishes a rolling limit rather than requiring a fixed number of unrelated articles before every Clan-Focused report.
+The calculation includes the article being assessed. It does not reset at the start of a new week or month.
+
+This rule establishes a rolling limit rather than requiring a fixed number of unrelated articles before every Clan-Focused report. Stations must not publish filler merely to satisfy the calculation.
 
 Recruitment and advertising remain prohibited regardless of the rolling-window calculation.
 
 ### 3. Equal Expectations
 
 Clan-Affiliated Stations are subject to the same factual, structural and conduct standards as independent stations.
-
----
 
 ## 🎨 V. QUALITY, STRUCTURAL STANDARDS & STYLING GUIDE
 
@@ -225,8 +215,8 @@ An article may be removed solely for failing structural or Styling Guide standar
 
 When News Managers are unavailable, unable to act or disqualified, Admin Assistants may fill the unavailable positions. The two-person approval requirement remains in effect and may be satisfied by:
 
-- Two News Managers;
-- One News Manager and one Admin Assistant; or
+- Two News Managers.
+- One News Manager and one Admin Assistant.
 - Two Admin Assistants when News Managers cannot act.
 
 This safeguard does not prevent immediate protective action against Severe content where delay would create a moderation or safety risk. Such action must receive subsequent review as soon as reasonably possible.
@@ -235,11 +225,9 @@ This safeguard does not prevent immediate protective action against Severe conte
 
 The responsible moderators must:
 
-- Log the action in the appropriate internal log;
-- Forward the enforcement record to the designated public enforcement channel where required; and
+- Log the action in the appropriate internal log.
+- Forward the enforcement record to the designated public enforcement channel where required.
 - Provide written, constructive reasons to both the journalist and their Station Owner.
-
----
 
 ## 🎭 VI. SATIRE NEWS POLICY
 
@@ -255,7 +243,7 @@ Every satire article must clearly display:
 
 ### 3. Minimum Article Structure
 
-Satire posts must include a clear headline and a structured body containing at least two distinct sentences or paragraphs.
+Satire posts must include a clear headline and a structured body containing at least two distinct sentences.
 
 Single-line shitposts, raw link drops and unformatted screenshots without a parodic narrative are prohibited as low-effort spam.
 
@@ -266,8 +254,6 @@ Satire must be written in English or include an English translation.
 Profanity in another language, toxic insults, slurs, targeted harassment or other rule violations do not become permissible merely because content is labeled as satire.
 
 All satire remains subject to Territorial.io Terms and the General Server Rules.
-
----
 
 ## 🤖 VII. AI-GENERATED CONTENT & LLM RULES
 
@@ -281,13 +267,15 @@ Grammar correction, spellchecking, translation, formatting assistance and simila
 
 Publishing raw, substantially unedited AI-generated drafts as low-effort content is prohibited.
 
-Deceptive AI use, fabricated quotations, fake evidence presented as real and unverified AI-generated claims may be enforced according to their actual severity.
+Deceptive AI use, fabricated quotations, fake evidence presented as real and materially false claims resulting from inadequate verification may be enforced according to their actual severity.
+
+Properly disclosed Unverified Reports remain subject to Section I; AI assistance does not remove their verification and transparency obligations.
 
 ### 3. Verification and Responsibility
 
 Authors remain fully responsible for every factual claim, quotation, image and source included in their articles, regardless of whether AI assisted with research or drafting.
 
-Materially false claims caused by negligent or reckless verification, including AI hallucinations, are assessed under the same standards as other misinformation.
+Materially false claims caused by negligent or reckless verification, including AI hallucinations, are assessed under the same standards as other factual errors or misinformation.
 
 Blaming an AI system does not excuse a violation.
 
@@ -305,8 +293,6 @@ Articles using AI-generated satire text, synthetic media or fake AI screenshots 
 
 This disclosure does not replace the mandatory Satire disclaimer where Section VI applies.
 
----
-
 ## 🛡️ VIII. VERIFIED STATION STATUS
 
 ### 1. Territorial Journalist
@@ -317,9 +303,9 @@ Territorial Journalist is the standard Discord role granted to approved Station 
 
 Verified Station is an earned recognition status for stations that demonstrate:
 
-- Consistent layout formatting and structural effort;
-- Good-faith responsiveness to documented News Manager feedback;
-- A clean disciplinary record with no active Major policy strike.
+- Consistent layout formatting and structural effort.
+- Good-faith responsiveness to documented News Manager feedback.
+- No Major policy strikes on record, excluding overturned strikes.
 
 Lawful disagreement with feedback or the exercise of appeal rights does not count as non-responsiveness.
 
@@ -335,11 +321,11 @@ Verified status may be revoked when a station no longer satisfies the Verified c
 
 Revocation requires:
 
-- Agreement from two qualified decision-makers under the same substitution rules used for granting status;
-- Written reasons provided to the Station Owner; and
-- Notice of the right to appeal directly to the DoJ Tribunal.
+- Agreement from two qualified decision-makers under the same substitution rules used for granting status.
+- Written reasons provided to the Station Owner.
+- Notice of the right to appeal directly to the DoJ Tribunal within seven days.
 
-A revocation remains active while an appeal is pending unless reversed by the Tribunal.
+A revocation remains active while an appeal is pending unless reversed or modified by the Tribunal.
 
 Verified status may not be denied or revoked in retaliation for lawful criticism.
 
@@ -352,23 +338,23 @@ When a station slot becomes available:
 
 The relevant timestamp is the time at which a complete application entered the waiting list.
 
----
-
 ## 🛃 IX. EARLY WARNINGS, STRIKES & APPEALS
 
 News Managers operate an Early Warning “Fix It” Window to promote correction and improvement before formal punishment.
 
 ### 1. Early Warning Grace Periods
 
-- 🟠 **Minor Issues:** Eight hours to edit and resolve the issue after receiving feedback.
-- 🔴 **Major Issues:** One hour to edit and resolve the issue after receiving feedback.
+- 🟠 **Minor Issues:** Eight hours to edit and resolve the issue after receiving manager feedback.
+- 🔴 **Major Issues:** One hour to edit and resolve the issue after receiving manager feedback.
 - ⚫ **Severe Issues:** No grace period; immediate enforcement is permitted.
+
+Minor and Major issues resolved within their applicable grace period do not receive a formal strike for that issue. Severe offenses are subject to immediate enforcement.
 
 ### 2. Factual-Error Classification
 
 - A harmless typographical mistake is normally corrected without a strike.
 - A good-faith factual error is normally handled through correction and may be treated as Minor depending on its materiality and the journalist’s response.
-- Reckless misinformation (publishing a material claim without reasonable regard for whether it is true) is a Major offense.
+- Reckless misinformation, meaning publication of a material claim without reasonable regard for whether it is true, is a Major offense.
 - Deliberate fabrication is a Major offense and may be treated as Severe where it forms part of targeted harassment, creates a serious safety risk or causes comparably serious harm.
 - Malicious Leaks are Severe offenses.
 - Legitimate public-interest reporting based on responsibly handled leaked or confidential material is not a Malicious Leak.
@@ -377,7 +363,7 @@ News Managers operate an Early Warning “Fix It” Window to promote correction
 
 A News Manager may independently classify and enforce a clear violation.
 
-Where the facts, applicable rule or severity are reasonably disputed, a second News Manager should review a proposed Major or Severe strike before it is finalized.
+Where the facts, applicable rule or severity are reasonably disputed, a second eligible News Manager must review a proposed Major or Severe strike before it is finalized.
 
 One News Manager may take immediate protective action in a Severe case. The classification must then receive a second review as soon as reasonably possible.
 
@@ -387,51 +373,63 @@ Admin Assistants may perform these functions when News Managers are unavailable,
 
 A News Manager or substituting Admin Assistant must not decide or review a case where they:
 
-- Are personally involved in the underlying dispute;
-- Are the subject of the article;
-- Own, work for or materially participate in an affected News Station;
-- Belong to or lead an affected clan;
+- Are personally involved in the underlying dispute.
+- Are the subject of the article.
+- Own, work for or materially participate in an affected News Station.
+- Belong to or lead an affected clan.
 - Have another substantial personal conflict that could reasonably call their impartiality into question.
 
 The case must be reassigned to an eligible News Manager or, when necessary, an Admin Assistant.
 
 ### 5. Progressive Strike System
 
-#### 🟠 Minor Offenses
+**🟠 Minor Offenses — If Unfixed**
 
-Examples include missing tags, broken formatting, thread spam and minor factual errors that remain uncorrected.
+Examples include accidentally missing tags, broken formatting, thread spam and minor factual errors that remain uncorrected.
 
 - **First offense:** Logged warning with constructive feedback.
 - **Second offense:** Three-day posting cooldown.
 - **Third offense:** Seven-day probation.
 
-#### 🔴 Major Offenses
+**🔴 Major Offenses — If Unfixed**
 
-Examples include undisclosed clan affiliation, reckless misinformation, deliberate fabrication, recruitment spam and materially false AI-generated claims caused by reckless verification.
+Examples include deliberately concealing clan affiliation, reckless misinformation, deliberate fabrication, recruitment spam and materially false AI-generated claims caused by reckless verification.
+
+An accidentally missing clan disclosure is Minor. Deliberate concealment is Major and must be supported by evidence beyond the missing tag alone.
 
 - **First offense:** Seven-day restriction.
 - **Second offense:** Fourteen-day restriction and content review before returning.
 - **Third offense:** Permanent revocation of news-publishing privileges.
 
-#### ⚫ Severe Offenses
+**⚫ Severe Offenses — Immediate Enforcement**
 
 Examples include slurs, targeted harassment, Malicious Leaks, serious threats and deliberate toxicity creating substantial harm.
 
 - **Immediate action:** Thirty-day revocation of station privileges and escalation to the Admin Assistants for full server review.
 
-### 6. Enforcement Records
+### 6. Enforcement Records and Notice
 
 Formal enforcement actions must be documented in the appropriate internal logs. Public enforcement records shall be forwarded to the designated public channel where required.
 
-- **Date/Time**:
-- **Manager**:
-- **Target Outlet/User**:
-- **Action Taken**:
-- **Reason/Context**:
+Records must identify:
+
+- **Date/Time**
+- **Manager**
+- **Target Outlet/User**
+- **Action Taken**
+- **Reason/Context**
+
+The affected journalist and Station Owner must receive written notice identifying:
+
+- The content or conduct at issue and the applicable rule.
+- The reasons for the decision and its severity classification.
+- The enforcement action and its duration, where applicable.
+- The required correction and deadline, where applicable.
+- The right to appeal directly to the DoJ Tribunal within seven days of notice.
 
 ### 7. Direct DoJ Appeals
 
-A station receiving a strike, article removal, Verified-status revocation or publishing restriction has seven days from notice to file an appeal directly with the Department of Justice Tribunal.
+A station or affected journalist receiving a strike, article removal, Verified-status revocation or publishing restriction has seven days from notice to file an appeal directly with the Department of Justice Tribunal.
 
 No separate general server appeal is required before filing with the DoJ.
 
@@ -445,11 +443,9 @@ Filing an appeal does not suspend the original enforcement action. The action re
 
 If an action is overturned:
 
-- The corresponding strike, restriction and adverse finding must be removed from the station’s disciplinary record;
-- The overturned action may not negatively affect future enforcement, waiting-list treatment or Verified eligibility;
+- The corresponding strike, restriction and adverse finding must be removed from the station’s disciplinary record.
+- The overturned action may not negatively affect future enforcement, waiting-list treatment or Verified eligibility.
 - Verified status must be restored if it was revoked solely because of the overturned action.
-
----
 
 ## 📦 X. SLOT LIMITS, WAITING LIST & INACTIVITY
 
@@ -472,8 +468,6 @@ A station that publishes no relevant news for fourteen consecutive days may have
 
 A station removed solely for inactivity may reapply immediately when it wishes to return. It enters the waiting list under the ordinary priority and first-come-first-served rules.
 
----
-
 ## 🏛️ XI. NEWS ADMINISTRATION & AMENDMENTS
 
 ### 1. Appointment and Substitution
@@ -490,9 +484,9 @@ Changes to this Constitution or the abbreviated News Guidelines require approval
 
 Every approved amendment must:
 
-- Be publicly documented;
-- Identify its effective date;
-- Be incorporated into the authoritative Discord version; and
+- Be publicly documented.
+- Identify its effective date.
+- Be incorporated into the authoritative Discord version.
 - Be reflected in secondary guidelines within a reasonable period.
 
 ### 3. No Retroactive Enforcement
@@ -505,15 +499,13 @@ Later amendments may clarify future interpretation but may not be used to manufa
 
 For news administration, the order of authority is:
 
-1. Territorial.io Terms and applicable General Server Rules;
-2. This Constitution;
-3. The abbreviated News Guidelines;
+1. Territorial.io Terms and applicable General Server Rules.
+2. This Constitution.
+3. The abbreviated News Guidelines.
 4. The News Styling Guide and other secondary instructions.
 
 A lower-level policy must be interpreted consistently with every higher-level authority.
 
----
-
-# CORE GUIDING PRINCIPLE
+## CORE GUIDING PRINCIPLE
 
 > **We do not judge News Stations based on who runs them; we judge them strictly by what they produce and how they act.**
