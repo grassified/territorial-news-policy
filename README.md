@@ -236,19 +236,13 @@ The responsible moderators must:
 
 Satire and humor articles are permitted exclusively in Satire News.
 
-### 2. Mandatory Satire Disclaimer
-
-Every satire article must clearly display:
-
-`SATIRE — This article is fictional or parodic and should not be interpreted as factual reporting.`
-
-### 3. Minimum Article Structure
+### 2. Minimum Article Structure
 
 Satire posts must include a clear headline and a structured body containing at least two distinct sentences.
 
 Single-line shitposts, raw link drops and unformatted screenshots without a parodic narrative are prohibited as low-effort spam.
 
-### 4. Language & Conduct
+### 3. Language & Conduct
 
 Satire must be written in English or include an English translation.
 
