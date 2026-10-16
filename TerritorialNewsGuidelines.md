@@ -33,6 +33,7 @@ Confidential sources and responsible public-interest leaks are allowed. Assess s
 
 - Lawful criticism, negative coverage and disagreement are protected. Retaliation, including selective enforcement or queue/Verified discrimination, is prohibited.
 - No slurs, threats, harassment, bad-faith slander or provocation primarily intended to create personal conflict.
+- Malicious Leaks are Severe offenses and receive immediate enforcement.
 - No direct ads, recruitment campaigns or giveaway spam. Neutral community-event reporting and relevant links to safe, open-source community tools are allowed.
 - **Independent stations:** One small masked footer link to their archive or Discord server.
 - **Clan-affiliated stations:** No archive, publication-server or invite links, including indirect workarounds.
