@@ -298,7 +298,7 @@ Verified Station is an earned recognition status for stations that demonstrate:
 
 - Consistent layout formatting and structural effort.
 - Good-faith responsiveness to documented News Manager feedback.
-- No Major policy strikes on record, excluding overturned strikes.
+- No Major+ policy strikes on record, excluding overturned strikes.
 
 Lawful disagreement with feedback or the exercise of appeal rights does not count as non-responsiveness.
 
