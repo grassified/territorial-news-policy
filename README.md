@@ -58,7 +58,7 @@ Articles must be presented according to their actual nature:
 
 `⚠️ UNVERIFIED REPORT: This article covers community rumors/speculation. No official evidence has been verified.`
 
-**Satire** must comply with Section VI and include its required disclaimer.
+**Satire** must comply with Section VI.
 
 A label does not excuse fabrication, harassment or reckless disregard for accuracy.
 
@@ -71,6 +71,10 @@ The use of a confidential or anonymous source does not by itself make a report p
 Legitimate public-interest reporting may include leaked information concerning community governance, public conduct, clan politics or other matters affecting the Territorial.io community.
 
 Malicious Leaks are prohibited. Public-interest value does not justify publishing passwords, private identifying information, intimate material or information likely to enable harassment or unauthorized access.
+
+The fact that information originated from a private, staff-only or archived channel does not by itself make its publication a Malicious Leak.
+
+Such material remains subject to any applicable General Server Rule concerning privacy, confidentiality or unauthorized disclosure. If enforcement relies on a separate privacy or confidentiality rule rather than the Malicious Leak provisions of this Constitution, the enforcement notice must identify that specific rule.
 
 ### 4. Right of Response & Transparency
 
@@ -222,7 +226,17 @@ When News Managers are unavailable, unable to act or disqualified, Admin Assista
 
 This safeguard does not prevent immediate protective action against Severe content where delay would create a moderation or safety risk. Such action must receive subsequent review as soon as reasonably possible.
 
-### 3. Feedback and Logging
+### 3. Interaction with the Fix-It Window
+
+For Minor or Major violations based solely on structural or Styling Guide standards, the article must normally remain published during the applicable Fix-It Window in Section IX so the journalist has a reasonable opportunity to correct it.
+
+Immediate temporary removal before the Fix-It Window expires is permitted only when continued publication creates a reasonable moderation, safety, privacy or substantial misinformation risk. Any such removal must be documented with the reason for bypassing the normal correction period.
+
+If the structural issue is fully corrected within the applicable Fix-It Window, the article shall not be removed for that corrected issue and no formal strike shall be issued for it. If the article was temporarily removed, it must be restored once corrected unless another independent rule still requires its removal.
+
+Severe content remains subject to immediate removal and enforcement.
+
+### 4. Feedback and Logging
 
 The responsible moderators must:
 
@@ -341,7 +355,11 @@ News Managers operate an Early Warning “Fix It” Window to promote correction
 - 🔴 **Major Issues:** One hour to edit and resolve the issue after receiving manager feedback.
 - ⚫ **Severe Issues:** No grace period; immediate enforcement is permitted.
 
-Minor and Major issues resolved within their applicable grace period do not receive a formal strike for that issue. Severe offenses are subject to immediate enforcement.
+For remediable Minor or Major compliance issues, correction within the applicable grace period prevents a formal strike for the corrected defect.
+
+The Fix-It Window does not automatically erase responsibility for completed Major misconduct, including reckless misinformation, deliberate fabrication, deliberate concealment of clan affiliation or recruitment/advertising violations. Prompt correction or removal may be considered a mitigating factor when determining enforcement.
+
+Severe offenses are subject to immediate enforcement.
 
 ### 2. Factual-Error Classification
 
@@ -384,11 +402,13 @@ Examples include accidentally missing tags, broken formatting, thread spam and m
 - **Second offense:** Three-day posting cooldown.
 - **Third offense:** Seven-day probation.
 
-**🔴 Major Offenses — If Unfixed**
+**🔴 Major Offenses**
 
 Examples include deliberately concealing clan affiliation, reckless misinformation, deliberate fabrication, recruitment spam and materially false AI-generated claims caused by reckless verification.
 
 An accidentally missing clan disclosure is Minor. Deliberate concealment is Major and must be supported by evidence beyond the missing tag alone.
+
+Remediable Major compliance failures may avoid a strike when fully corrected within the applicable Fix-It Window. Completed Major misconduct may still receive a strike after correction; prompt correction may mitigate the enforcement imposed.
 
 - **First offense:** Seven-day restriction.
 - **Second offense:** Fourteen-day restriction and content review before returning.
@@ -502,3 +522,5 @@ A lower-level policy must be interpreted consistently with every higher-level au
 ## CORE GUIDING PRINCIPLE
 
 > **We do not judge News Stations based on who runs them; we judge them strictly by what they produce and how they act.**
+
+> **The same principle applies to enforcement: decisions must be based on written rules, evidence and consistent procedure; not identity, affiliation, personal disagreement or embarrassment caused by lawful reporting.**
