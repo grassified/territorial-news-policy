@@ -17,6 +17,8 @@ Labels do not excuse fabricated claims, harassment or reckless disregard for acc
 
 Confidential sources and responsible public-interest leaks are allowed. Assess sources and corroborate material claims. Doxxing, passwords, intimate material and leaks enabling harassment or unauthorized access are prohibited.
 
+Material does not become a Malicious Leak merely because it originated from a private, staff-only or archived channel. Applicable Server Rules concerning privacy or confidentiality still apply, and enforcement relying on such a rule must identify the specific rule.
+
 ## 2. RIGHT OF RESPONSE & CORRECTIONS
 
 - For serious allegations, controversial disputes or major clan developments, offer affected parties a reasonable opportunity to comment where circumstances permit. You do not need their approval to publish.
@@ -39,6 +41,8 @@ Confidential sources and responsible public-interest leaks are allowed. Assess s
 - **Clan-affiliated stations:** No archive, publication-server or invite links, including indirect workarounds.
 - Follow the Styling Guide: clear headers, readable spacing, sound English grammar and evidence for major claims.
 - Removal solely for structural faults requires two News Managers. AAs may fill unavailable positions; two-person approval remains required.
+- For Minor or Major structural faults, the article normally remains published during the applicable Fix-It Window so the journalist can correct it. Immediate temporary removal is allowed where continued publication creates a reasonable moderation, safety, privacy or substantial misinformation risk.
+- If the structural issue is corrected within the deadline, the article must remain or be restored and no strike is issued for that corrected structural issue.
 
 ## 4. CLAN AFFILIATION & COVERAGE
 
@@ -75,12 +79,13 @@ Threads may be moderated for seven consecutive days without activity, toxicity, 
 
 **Fix-It windows after feedback:** Minor 8 hours; Major 1 hour; Severe immediate.
 
-If Minor/Major issues remain unfixed:
+Remediable Minor or Major compliance issues corrected within the applicable Fix-It Window normally receive no strike for the corrected defect.
 
-- **Minor:** Logged warning → 3-day posting cooldown → 7-day probation.
+The Fix-It Window does not automatically erase responsibility for completed Major misconduct such as reckless misinformation, deliberate fabrication, deliberate concealment of affiliation or recruitment/advertising violations. Prompt correction may mitigate enforcement.
+
+- **Minor, if unfixed:** Logged warning → 3-day posting cooldown → 7-day probation.
 - **Major:** 7-day restriction → 14-day restriction + content review → permanent publishing revocation.
-
-**Severe:** Immediate 30-day station-privilege revocation + AA server review.
+- **Severe:** Immediate 30-day station-privilege revocation + AA server review.
 
 Conflicted managers must recuse. Disputed Major/Severe classifications require second review; immediate protection is allowed in Severe cases. AAs act when News Managers cannot.
 
@@ -98,5 +103,7 @@ Appeal directly to the **DoJ Tribunal within 7 days of notice**, including for a
 Amendments require AA approval, public documentation and an effective date. New or stricter rules cannot be applied retroactively.
 
 > We judge stations by what they produce and how they act, not who runs them.
+
+> The same principle applies to enforcement: decisions must be based on written rules, evidence and consistent procedure; not identity, affiliation, personal disagreement or embarrassment caused by lawful reporting.
 
 > Read the [Full Constitution](https://discord.com/channels/991752805213802516/1559235456112140290) for definitions, enforcement procedures and appeals. It prevails over these Guidelines and the Styling Guide.
