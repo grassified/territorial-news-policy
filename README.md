@@ -29,7 +29,7 @@ For the purposes of this Constitution:
 - **Analysis:** Evidence-based interpretation or explanation that goes beyond a direct factual report.
 - **Editorial:** An article primarily expressing the opinion of an author or station.
 - **Unverified Report:** Reporting based materially on rumors, speculation or allegations that have not been sufficiently verified.
-- **Satire:** Clearly seperated fictional, parodic or humorous content not presented as factual reporting.
+- **Satire:** Clearly separated fictional, parodic or humorous content not presented as factual reporting.
 - **Major Factual Claim:** A factual assertion important to the article’s main conclusion, allegations or public impact.
 - **Strike:** A formally logged disciplinary finding under the progressive enforcement system.
 - **Restriction:** A temporary or permanent limitation on publishing privileges.
